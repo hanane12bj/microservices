@@ -58,7 +58,7 @@ L’application est composée de plusieurs microservices indépendants qui commu
 
 ## Technologies utilisées
 
-* **Backend** : Spring Boot 3.5.7, Spring Cloud 2025.0.0
+* **Backend** : Spring Boot 3.5.5, Spring Cloud 2025.0.0
 * **Base de données** : H2 (in-memory)
 * **Service Discovery** : Netflix Eureka
 * **API Gateway** : Spring Cloud Gateway
